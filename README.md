@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-Coming up soon.
+```ruby
+MarkAutoCopyright::Renderer.copyright 'Your Name', 'All rights reserved or something else to say.'
+```
 
 ## Development
 
